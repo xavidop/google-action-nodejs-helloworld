@@ -1,0 +1,12 @@
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: You can say hello or help
+            text: You can say hello or help
+        suggestions:
+        - title: help
+        - title: hello
+transitionToScene: Start

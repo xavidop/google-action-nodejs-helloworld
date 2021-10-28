@@ -1,0 +1,6 @@
+category: GAMES_AND_TRIVIA
+defaultLocale: en
+localizedSettings:
+  displayName: Hello world sample
+  pronunciation: Hello world sample
+projectId: action-helloworld
