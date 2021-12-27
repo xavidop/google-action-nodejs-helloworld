@@ -114,8 +114,6 @@ These are the main files of the project:
       * `index.js`: the Firebase Cloud Function main entry point.
       * `package.json`: this file is core to the Node.js ecosystem and is a basic part of understanding and working with Node.js, npm, and even modern JavaScript
     * `ActionsOnGoogleFulfillment.yaml`: File that specifies the handlers and the folder of the source code.
-    * `errors`: a folder that contains all Error handlers.
-    * `intents`: a folder that contains all Intent handlers.
 
 ## Firebase Cloud function in Javascript
 
